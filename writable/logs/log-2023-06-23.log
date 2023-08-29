@@ -1,0 +1,33 @@
+CRITICAL - 2023-06-23 08:41:23 --> syntax error, unexpected ''created_by'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+in APPPATH\Models\PositionModel.php on line 19.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\WandaMaulidina\\mom\\app\\Models\\PositionModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PositionModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PositionModel')
+ 4 APPPATH\Controllers\Backend.php(22): spl_autoload_call('App\\Models\\PositionModel')
+ 5 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Backend->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\WandaMaulidina\\mom\\public\\index.php')
+CRITICAL - 2023-06-23 08:41:40 --> syntax error, unexpected ''created_by'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+in APPPATH\Models\PositionModel.php on line 19.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\WandaMaulidina\\mom\\app\\Models\\PositionModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PositionModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PositionModel')
+ 4 APPPATH\Controllers\Backend.php(22): spl_autoload_call('App\\Models\\PositionModel')
+ 5 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Backend->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\WandaMaulidina\\mom\\public\\index.php')
+CRITICAL - 2023-06-23 08:41:42 --> syntax error, unexpected ''created_by'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+in APPPATH\Models\PositionModel.php on line 19.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\WandaMaulidina\\mom\\app\\Models\\PositionModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PositionModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PositionModel')
+ 4 APPPATH\Controllers\Backend.php(22): spl_autoload_call('App\\Models\\PositionModel')
+ 5 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Backend->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\WandaMaulidina\\mom\\public\\index.php')

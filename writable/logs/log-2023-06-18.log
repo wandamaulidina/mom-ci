@@ -1,0 +1,22 @@
+CRITICAL - 2023-06-18 04:37:37 --> syntax error, unexpected '"contact"' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+in APPPATH\Controllers\Backend.php on line 106.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\WandaMaulidina\\mom\\app\\Controllers\\Backend.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Backend')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Backend')
+ 4 [internal function]: spl_autoload_call('App\\Controllers\\Backend')
+ 5 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Backend', true)
+ 6 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\WandaMaulidina\\mom\\public\\index.php')
+CRITICAL - 2023-06-18 04:37:43 --> syntax error, unexpected '"contact"' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+in APPPATH\Controllers\Backend.php on line 106.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\WandaMaulidina\\mom\\app\\Controllers\\Backend.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Backend')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Backend')
+ 4 [internal function]: spl_autoload_call('App\\Controllers\\Backend')
+ 5 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Backend', true)
+ 6 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\WandaMaulidina\\mom\\public\\index.php')
